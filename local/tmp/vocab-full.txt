@@ -1,0 +1,15 @@
+-pau-
+</s>
+<s>
+<unk>
+eight
+five
+four
+nine
+oh
+one
+seven
+six
+three
+two
+zero
