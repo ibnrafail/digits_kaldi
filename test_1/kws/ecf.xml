@@ -1,0 +1,12 @@
+<ecf language="English" source_signal_duration="9.90079365079" version="1.0">
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/3-3-8.wav" channel="1" dur="0.815192743764" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/9-5-0.wav" channel="1" dur="0.988979591837" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/9-2-6.wav" channel="1" dur="0.912947845805" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/3-2-3.wav" channel="1" dur="0.800702947846" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/9-7-9.wav" channel="1" dur="1.38004535147" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/2-6-4.wav" channel="1" dur="1.03968253968" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/3-5-8.wav" channel="1" dur="1.14469387755" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/8-4-6.wav" channel="1" dur="1.01072562358" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/1-4-1.wav" channel="1" dur="0.815192743764" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m0/3-2-7.wav" channel="1" dur="0.992630385488" source_type="splitcts" tbeg="0.0"/>
+</ecf>

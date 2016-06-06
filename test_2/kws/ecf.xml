@@ -1,0 +1,12 @@
+<ecf language="English" source_signal_duration="14.28" version="1.0">
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/3-3-8.wav" channel="2" dur="1.56" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/9-5-0.wav" channel="2" dur="1.32" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/9-2-6.wav" channel="2" dur="1.2" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/3-2-3.wav" channel="2" dur="1.44" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/9-7-9.wav" channel="2" dur="1.44" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/2-6-4.wav" channel="2" dur="1.92" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/3-5-8.wav" channel="2" dur="1.32" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/8-4-6.wav" channel="2" dur="1.2" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/1-4-1.wav" channel="2" dur="1.56" source_type="splitcts" tbeg="0.0"/>
+  <excerpt audio_filename="/home/arsen/kaldi/kaldi-trunk/egs/digits_new/../../egs/digits_new/digits-audio/test/m1/3-2-7.wav" channel="2" dur="1.32" source_type="splitcts" tbeg="0.0"/>
+</ecf>
