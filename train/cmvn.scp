@@ -1,0 +1,13 @@
+f0 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:3
+f1 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:245
+f2 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:487
+f3 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:729
+f4 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:971
+f5 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:1213
+m1 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:1455
+m2 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:1697
+m3 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:1939
+m4 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:2181
+m5 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:2423
+m6 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:2665
+m7 /home/arsen/kaldi/kaldi-trunk/egs/digits_new/mfcc/cmvn_train.ark:2907
